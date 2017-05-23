@@ -1,0 +1,2 @@
+# Solin
+Altium_Library
